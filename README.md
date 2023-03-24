@@ -2,10 +2,6 @@
 
 <h1 align="left">Hi Devs! I'm ana👋</h1>
 
-###
-
-https://github-readme-stats.vercel.app/api?Ana150=anuraghazra)
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
