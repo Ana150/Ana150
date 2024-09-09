@@ -25,15 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="R" />
 </div>
 
-<div align="center" margin-top="10vh">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ana-dev&show_icons=true&theme=radical" alt="Ana's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-dev&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-dev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<!-- AI Icon -->
-<div align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-artificial-intelligence-flaticons-lineal-color-flat-icons.png" height="40" width="40" alt="AI" />
 </div>
 
 ### 💬 Contact Me:
