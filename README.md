@@ -38,11 +38,13 @@
 
 <p align="left">Let's connect and collaborate! Feel free to reach out to me via:</p>
 
-<a href="mailto:anaoliveira4267@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/ana-ara%C3%BAjo-677592212" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn" />
-</a>
+<div align="center">
+  <a href="mailto:anaoliveira4267@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ana-ara%C3%BAjo-677592212" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn" />
+  </a>
+  </div>
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
