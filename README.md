@@ -1,6 +1,6 @@
 <h2 align="left">Hi Devs! I'm Ana 👋</h2>
 
-<img align="right" height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" alt="AI icon" />
+<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_in_AI.svg" alt="AI icon" />
 
 <p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. Currently pursuing a degree in <strong>Artificial Intelligence</strong> at <strong>FIAP</strong>, I also hold a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
 
