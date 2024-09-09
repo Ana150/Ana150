@@ -3,11 +3,11 @@
 <p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. Currently pursuing a degree in <strong>Artificial Intelligence</strong> at <strong>FIAP</strong>, I also hold a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
 
 <ul align="left">
-  <li>👩‍💻 <strong>Age:</strong> 18 years old</li>
-  <li>🎓 <strong>Education:</strong> B.Sc. in AI (in progress) at FIAP, graduated in Systems Analysis and Development at Senai</li>
-  <li>💼 <strong>Experience:</strong> Developing AI-driven health monitoring dashboards, migrating web projects to WordPress, and enhancing UI/UX design</li>
-  <li>🔍 <strong>Interests:</strong> AI automation, predictive analytics, web development, and technology integration</li>
-  <li>🌟 <strong>Projects:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
+  <li>👩‍💻 I'm 20 years old</li>
+  <li>🎓 B.Sc. in AI (in progress) at FIAP, graduated in Systems Analysis and Development at Senai</li>
+  <li>💼 <strong>Experience:</strong> During my internship, I have been deeply involved in various aspects of product development, gaining practical experience and contributing to impactful projects.</li>
+  <li>🔍 <strong>Interests:</strong> I have a strong passion for AI automation, focusing on leveraging artificial intelligence to streamline processes and improve efficiency. I am also deeply interested in predictive analytics, exploring how data can be used to forecast trends and make informed decisions. My enthusiasm extends to web development, where I enjoy creating and optimizing websites and applications. Additionally, I am keen on technology integration, working to combine different technologies to enhance system functionality and user experience.</li>
+  <li>🌟 <strong>Last Project:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
 </ul>
 
 
