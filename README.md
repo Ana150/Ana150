@@ -21,12 +21,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" width="52" alt="SQL" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ana-dev&show_icons=true&theme=radical" alt="Ana's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-dev&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-dev&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=ana-dev&theme=radical" alt="Contribution Snake" />
+</div>
+
+<!-- AI Icon -->
+<div align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-artificial-intelligence-flaticons-lineal-color-flat-icons.png" height="40" width="40" alt="AI" />
 </div>
 
 ### 💬 Contact Me:
@@ -41,4 +53,3 @@
 </a>
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
-
