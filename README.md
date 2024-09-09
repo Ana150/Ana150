@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="R" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ana-dev&show_icons=true&theme=radical" alt="Ana's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-dev&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-dev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ### 💬 Contact Me:
 
 <p align="left">Let's connect and collaborate! Feel free to reach out to me via:</p>
