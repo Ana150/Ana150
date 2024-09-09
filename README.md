@@ -1,7 +1,5 @@
 <h2 align="left">Hi Devs! I'm Ana 👋</h2>
 
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_in_AI.svg" alt="AI icon" />
-
 <p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. Currently pursuing a degree in <strong>Artificial Intelligence</strong> at <strong>FIAP</strong>, I also hold a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
 
 <ul align="left">
@@ -12,7 +10,7 @@
   <li>🌟 <strong>Projects:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
 </ul>
 
-### 🛠️ Technologies I work with:
+### 🛠️ Some Technologies I work with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5" />
@@ -25,18 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP" />
 </div>
 
-### 📈 GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ana-dev&show_icons=true&theme=radical" alt="Ana's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ana-dev&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-dev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-### 🐍 GitHub Contribution Snake:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ana-dev/ana-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ### 💬 Contact Me:
