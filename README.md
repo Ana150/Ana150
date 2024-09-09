@@ -11,7 +11,7 @@
   <li>🎓 B.Sc. in AI (in progress) at FIAP, graduated in Systems Analysis and Development at Senai</li>
   <li>💼 Developing AI-driven health monitoring dashboards, migrating web projects to WordPress, and enhancing UI/UX design</li>
   <li>🔍 <strong>Interests:</strong> AI automation, predictive analytics, web development, and technology integration</li>
-  <li>🌟 <strong>Projects:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
+  <li>🌟 <strong>Last Project:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
 </ul>
 
 ### 🛠️ Technologies I work with:
