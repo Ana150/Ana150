@@ -4,8 +4,8 @@
 
 <ul align="left">
   <li>👩‍💻 I'm 20 years old</li>
-  <li>🎓 B.Sc. in AI (in progress) at FIAP, graduated in Systems Analysis and Development at Senai</li>
-  <li>💼 <strong>Experience:</strong> During my internship, I have been deeply involved in various aspects of product development, gaining practical experience and contributing to impactful projects.</li>
+  <li>🎓 B.Sc. in AI at FIAP, graduated in Systems Analysis and Development at Senai</li>
+  <li>💼 <strong>Experience:</strong> During my internship, I was deeply involved in various aspects of product development, gaining practical experience and contributing to impactful projects. Now I'm working as Full Stack Developer</li>
   <li>🔍 <strong>Interests:</strong> I have a strong passion for AI automation, focusing on leveraging artificial intelligence to streamline processes and improve efficiency. I am also deeply interested in predictive analytics, exploring how data can be used to forecast trends and make informed decisions. My enthusiasm extends to web development, where I enjoy creating and optimizing websites and applications. Additionally, I am keen on technology integration, working to combine different technologies to enhance system functionality and user experience.</li>
   <li>🌟 <strong>Last Project:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
 </ul>
