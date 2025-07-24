@@ -37,3 +37,11 @@
 </a>
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
