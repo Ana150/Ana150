@@ -38,3 +38,7 @@
 
 <h3 align="center">Let's build something amazing together! 🚀</h3>
 
+<img src="https://raw.githubusercontent.com/Ana150/Ana150/output/snake.svg" alt="Snake animation" />
+
+###
+
