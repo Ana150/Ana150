@@ -1,6 +1,6 @@
 <h2 align="left">Hi Devs! I'm Ana 👋</h2>
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. I hold a degree in <strong>Artificial Intelligence</strong> from <strong>FIAP</strong>, as well as a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
+<p align="left">Welcome to my GitHub profile! I'm a developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. I hold a degree in <strong>Artificial Intelligence</strong> from <strong>FIAP</strong>, as well as a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
 
 <ul align="left">
   <li>👩‍💻 I'm 20 years old</li>
