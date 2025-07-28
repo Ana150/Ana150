@@ -1,15 +1,14 @@
 <h2 align="left">Hi Devs! I'm Ana 👋</h2>
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. Currently pursuing a degree in <strong>Artificial Intelligence</strong> at <strong>FIAP</strong>, I also hold a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
+<p align="left">Welcome to my GitHub profile! I'm a passionate developer with a focus on <strong>Artificial Intelligence</strong> and <strong>Software Development</strong>. I hold a degree in <strong>Artificial Intelligence</strong> from <strong>FIAP</strong>, as well as a degree in <strong>Systems Analysis and Development</strong> from <strong>Senai</strong>. Here's a bit more about me:</p>
 
 <ul align="left">
   <li>👩‍💻 I'm 20 years old</li>
-  <li>🎓 B.Sc. in AI at FIAP, graduated in Systems Analysis and Development at Senai</li>
-  <li>💼 <strong>Experience:</strong> During my internship, I was deeply involved in various aspects of product development, gaining practical experience and contributing to impactful projects. Now I'm working as Full Stack Developer</li>
-  <li>🔍 <strong>Interests:</strong> I have a strong passion for AI automation, focusing on leveraging artificial intelligence to streamline processes and improve efficiency. I am also deeply interested in predictive analytics, exploring how data can be used to forecast trends and make informed decisions. My enthusiasm extends to web development, where I enjoy creating and optimizing websites and applications. Additionally, I am keen on technology integration, working to combine different technologies to enhance system functionality and user experience.</li>
-  <li>🌟 <strong>Last Project:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
+  <li>🎓 B.Sc. in Artificial Intelligence (FIAP) and in Systems Analysis and Development (Senai)</li>
+  <li>💼 <strong>Experience:</strong> During my internship, I actively contributed to several areas of product development, gaining hands-on experience and delivering results. I'm currently working as a Full Stack Developer.</li>
+  <li>🔍 <strong>Interests:</strong> I'm passionate about AI automation, using artificial intelligence to streamline processes and boost efficiency. I'm also interested in predictive analytics, exploring how data can help forecast trends and drive decisions. I enjoy web development, building and optimizing websites and applications, and I’m enthusiastic about technology integration—bringing together different tools to enhance system functionality and user experience.</li>
+  <li>🌟 <strong>Latest Project:</strong> FocusFlow – AI-powered health monitoring with real-time feedback</li>
 </ul>
-
 
 <h3 align="center">🛠️ Some Technologies I work with</h3>
 
